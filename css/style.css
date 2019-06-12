@@ -1,6 +1,7 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #ccc;
+  color: #333;
+  font-size: 18px;
 }
 
 nav {
